@@ -1,0 +1,1 @@
+This repository contains Terraform code that builds a minimal three-tier architecture on Azure. It deploys a Linux VM running Apache, an Application Gateway for traffic routing, and all the necessary network resources.
