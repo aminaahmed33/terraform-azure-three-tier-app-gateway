@@ -97,13 +97,3 @@ Apache Web Server
 </p>
 
 ---
-
-## 📂 Repository Structure
-
-├── main.tf
-├── variable.tf
-├── README.md
-└── images/
-├── all-resources.png
-├── vnet.png
-└── welcome.png
