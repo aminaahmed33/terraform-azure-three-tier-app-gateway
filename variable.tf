@@ -67,5 +67,5 @@ variable "mysql_admin_login" {
 }
 
 variable "mysql_admin_password" {
-  default = "P@ssw0rd1234"
+  sensitive = true
 }
