@@ -35,7 +35,7 @@ This project reflects practical knowledge of:
 
 ---
 
-## 🏗️ Architecture Overview
+## Architecture Overview
 
 The Terraform configuration creates the following resources:
 
@@ -51,7 +51,7 @@ The Terraform configuration creates the following resources:
 
 ---
 
-## 🔄 Traffic Flow
+## Traffic Flow
 
 Internet User
 |
@@ -77,7 +77,7 @@ Apache Web Server
   <img src="images/all-resources.png" width="800"/>
 </p>
 <p align="center">
-  <em>All deployed Azure components including Application Gateway, VM, and networking</em>
+  <em>All deployed Azure components, including Application Gateway, VM, and networking</em>
 </p>
 
 ### Virtual Network Design
@@ -97,3 +97,8 @@ Apache Web Server
 </p>
 
 ---
+
+## Author
+
+**Amina Ahmed**  
+Packet Core & IP Network Engineer | Network Automation Enthusiast
